@@ -1,12 +1,15 @@
 # About
 ShapeKey Sync lets you set the same named shape key to multiple objects.
-
 you can find it on the data tab and move it around to your liking!
+
+you can also find this addon on gumroad https://raska.gumroad.com/l/ShapeKeySync
 
 # How to use
 
 - select the main object 
 - select the shape key you want to change and it will do it for all of them.
+
+here is a quick video demonstrating it working: https://www.youtube.com/watch?v=a8gw-KJSFS8
 
 
 ### Additional settings
@@ -23,3 +26,4 @@ Don't worry about having objects that don't have the same shape keys, it will no
 # Licence
 
 This software is protected by the gpl4 license: https://creativecommons.org/licenses/by/4.0/deed.en, You can edit it, share but DON'T SELL IT, if you do i'll be very angy 😾, and sad, pwease be nice.
+
