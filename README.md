@@ -18,9 +18,9 @@ here is a quick video demonstrating it working: https://www.youtube.com/watch?v=
 
 
 
-**The AllObject toggle** is useful if you want to set (or not) that shapekeys for all the sub-collections, so if toggled on all your object (no matter how many sub-collections you have) will inherit that transformation. Otherwise only the object directy inside will inherit the transformation.
+**The AllObject toggle** is useful if you want to set (or not) that shapekeys for all the sub-collections, so if toggled on, all your object (no matter how many sub-collections you have) will inherit that transformation. Otherwise only the object directy inside will inherit the transformation.
 
-Don't worry about having objects that don't have the same shape keys, it will not mess with them, it will only act if it will find the correct name.
+- Don't worry about having objects that don't have the same shape keys, it will not mess with them, it will only act if it will find the correct name.
 
 
 # Licence
